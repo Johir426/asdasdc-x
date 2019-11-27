@@ -1,0 +1,321 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Lato', sans-serif;
+    
+}
+
+.header {
+    background-color: #3F5C9A;
+    overflow: hidden
+}
+
+.logo-login {
+    margin-left: 200px;
+    margin-right: 200px;
+    height: 80px
+}
+
+.logo {
+    float: left;
+
+}
+
+.logo img {
+    margin-top: 29px
+}
+
+.login {
+    float: right;
+    margin-top: 8px
+}
+
+.login label {
+    display: block;
+    margin-top: 5px;
+    font-size: 13px;
+    color: white;
+}
+
+.login .email {
+    float: left;
+
+}
+}
+
+.login input {
+    margin-top: 5px;
+}
+
+.login input[type="text"] {
+    display: block;
+    margin-top: 5px;
+    margin-right: 15px;
+
+}
+
+.login .password {
+    float: left;
+
+}
+
+.password a {
+    text-decoration: none;
+    font-size: 13px;
+    padding: 5px;
+    color: #9CB4D8;
+
+}
+
+.login input[type="password"] {
+    display: block;
+    margin-top: 5px;
+
+}
+
+.login .submit {
+    float: left;
+    margin-top: 22px;
+
+
+}
+
+.login input[type="submit"] {
+    
+    font-size: 14px;
+    margin-left: 18px;
+
+   background-color: #4267b2;
+    border: 1px solid #29487d;
+    color: #fff;
+    cursor: pointer;
+    padding: 3px;
+    font-weight: bold;
+    font-size: 13px
+  
+
+
+
+}
+.login input [value:Log in]{
+    font-size: 
+}
+
+.login input[type="submit"]:hover {
+    background-color: #3F5C9A;
+}
+
+.meader{   background-color: #D5DAE9
+    
+}
+.mead{
+    margin-left: 200px;
+    margin-right: 200px;
+  
+   
+}
+
+.mead .left{float: left;
+    margin-top: 42px
+    
+ 
+}
+.left p{
+    color: #0E385F;
+    font-weight: bold;
+    font-size: 20px
+    
+}
+.left .fbpic{
+    
+}
+.fbpic img{
+    
+}
+.mead .right{
+    overflow:hidden;
+    
+}
+.right .right-write{
+    
+}
+.right_write h1{
+    font-size: 38px;
+    margin-top: 24px;
+    color: #333333;
+}
+.right_write p{
+    font-size: 18px;
+    margin: 10px 0px 15px 0px;
+     color: #333333;
+    
+}
+
+.right .right_input {
+    
+}
+.name input{
+    width: 193px;
+    height: 30px;
+    border-radius: 5px;
+    font-size: 17px;
+    padding: 2px;
+     border: 1px solid #E7EAF2 ;
+    color:#999999;
+    padding-left: 5px
+    
+    
+}
+.mail{
+    
+}
+.mail input{
+    width:396px;
+    height: 30px;
+    margin-top: 10px;
+    border-radius: 5px;
+    font-size: 17px;
+    color:#999999;
+    border: 1px solid #E7EAF2 ; 
+     padding: 5px
+   
+    
+}
+.right_input .mail{
+    
+}
+.right_input .slc select{
+
+    font-size: 11px;
+    height: 30px;
+    padding: 5px;
+    border-radius: 5px
+    
+}
+.slc h5{
+    margin: 20px 0px 8px 0px;
+    color:#90949C;
+    font-size: 16px
+}
+.slc section option{
+    font-size: 20px;
+}
+
+
+
+ .slc .gender input {
+margin-left: 15px;
+     font-size: 25px;
+     
+    
+
+}
+.slc .gender p{
+    display: inline;
+    font-size: 18px;
+    margin-left: 5px
+}
+
+.right_input .finish{
+    margin-top: 15px;
+}
+ a {
+    text-decoration: none;
+     color: #385898
+}
+a:hover{
+    text-decoration: underline
+}
+.right_input .finish p{
+    font-size: 11px;
+    color: #90949C;
+}
+ .sign input {
+     width: 190px;
+     height: 35px;
+     border-radius: 5px;
+     margin: 20px 0px;
+     font-size: 18px;
+     background: #6DAA58;
+     cursor: pointer;
+     color: #fff;
+     
+    
+     
+     
+    
+}
+.sign input:hover{
+    opacity: 0.9
+}
+i{
+    margin-left: 10px;
+    font-size: 12px;
+    color: #606770
+}
+
+.right_input .sign p{
+    margin: 20px 0px 20px 0px;
+    font-size: 14px;
+    color: #666666
+    
+    
+}
+
+Footer{
+   
+}
+.foot{
+    margin: 25px 200px 0px 200px;
+}
+.foot a{
+    color: #385898;
+    
+}
+.one{
+   font-size: 12px;
+    border-bottom: 1px solid #DDDFE2;
+    margin-bottom: 10px
+}
+.one p{display: inline
+    
+}
+.two{font-size: 12px
+    
+}
+.three{font-size: 12px;
+  
+   
+}
+.foot p{
+    font-size: 10px;
+    color:  #88739E
+}
+.lolo{
+    margin: 10px 0px
+}
+
+.foot i{
+ font-size: 16px;
+  border: 1px solid #EBEDF0;
+    background-color: : #EBEDF0
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
